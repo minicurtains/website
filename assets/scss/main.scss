@@ -6,6 +6,10 @@
   font: inherit;
 }
 
+body * + * {
+  margin-top: 1em;
+}
+
 html {
   font-size: 21px;
 }
