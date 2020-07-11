@@ -10,14 +10,5 @@ body * + * {
   margin-top: 1em;
 }
 
-html {
-  font-size: 21px;
-}
-
-body {
-  max-width: 31rem;
-  margin: {
-    left: auto;
-    right: auto;
-  }
-}
+@import "typography";
+@import "layout";
