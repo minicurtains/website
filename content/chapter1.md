@@ -1,0 +1,11 @@
+---
+title: Chapter 1
+---
+
+They appeared at midnight. Three men in white suits with dark sunglasses which could hide a soul. Just pop! Out of thin air. The dim street lamp glowed as the men walked, more like glided up to the doorstep of number 12 Endworth Way. The middle one knocked. Silence. Then suddenly a trap door flung open and the three men fell, not even flinching. The people who lived in the surrounding houses were still. It was just a regular night. Life continued but if you were watching that night, you would have realised that the three men never left. But someone was watching.
+
+Not many people are observant. We only see what is in front of us. We are too wrapped up in our lives. This may not be intentional but it happens. Then there is the rare occasion of an observant person. A person who lives in the moment, notices every tiny detail and isn't trapped in their head. Will wasn't one of these people. He was what you might call regular. His brother Oliver however, was something different. Oliver had been to ten schools in his life. Teachers never really understood his thought process. Let's just say that some teachers don't like to be corrected.
+
+On Saturday night Oliver couldn't sleep. He didn't care. He sat next to his window and peered out onto the street. That's when he saw it: the three men. Normal people would start to freak out but Oliver was just confused. He didn't sleep that night and just watched the cool crisp air as the silent world travelled by. He stayed there for the rest of the night and most of Sunday, obsessively watching and waiting to solve this mystery of the three men. You might be wondering what his parents were thinking. To be honest this wasn't irregular behaviour for Oliver. His parents were used to checking on him every once in a while. "You ok sweetie?" his mother asked. "I'm fine thank you Mum!" Oliver wasn't rude. He was just... well it's hard to explain.
+
+At 5pm it was getting dark but Oliver wasn't giving up. His eyes focused on the street as a white flash crossed the air. Oliver was prepared for this. He shot out of the house and into the road. He turned around wildly. He spun trying to find the source of the flash. His forehead was beaded with sweat, his feet stumbled, another flash, the street lights flickered and then a car hit him. 
