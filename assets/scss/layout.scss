@@ -6,7 +6,9 @@ body {
     right: auto;
   }
 
-  padding: 1rem;
+  padding: 1rem {
+    bottom: 6rem;
+  }
 }
 
 .chapter-controls {
