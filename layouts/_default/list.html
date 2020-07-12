@@ -4,6 +4,10 @@
     {{ partial "head" . }}
   </head>
   <body>
+    <nav class="page-navigation">
+      <p><a href="/">{{ .Site.Title }}</a></p>
+    </nav>
+
     <h1 class="story-title">{{ .Title }}</h1>
 
     <prose>
