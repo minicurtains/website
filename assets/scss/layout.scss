@@ -1,9 +1,22 @@
 body {
   max-width: 31rem;
+
   margin: {
     left: auto;
     right: auto;
   }
 
   padding: 1rem;
+}
+
+.chapter-control {
+  .prev {
+    text-align: left;
+    float: left;
+  }
+
+  .next {
+    text-align: right;
+    float: right;
+  }
 }

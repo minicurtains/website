@@ -7,14 +7,20 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
 
-    <nav class="chapter-movement">
+    <nav class="chapter-control">
       {{ with .Next }}
-        <p><a href="{{ .Permalink }}">← previous chapter</a></p>
+        <p class="prev">
+          <a href="{{ .Permalink }}">← previous chapter</a>
+        </p>
       {{ end }}
 
       {{ with .Prev }}
-        <p><a href="{{ .Permalink }}">next chapter →</a></p>
+        <p class="next">
+          <a href="{{ .Permalink }}">next chapter →</a>
+        </p>
       {{ end }}
+
+      <div class="clearfloat"></div>
     </nav>
   </body>
 </html>
