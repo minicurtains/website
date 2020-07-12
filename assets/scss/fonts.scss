@@ -1,13 +1,16 @@
-@mixin font-face($weightNumber, $weightName, $style) {
+@mixin font-face($family, $weightNumber, $weightName, $style, $ext) {
   @font-face {
-    font-family: "source-serif-pro";
+    font-family: $family;
     font-weight: $weightNumber;
     font-style: $style;
     font-display: swap;
-    src: url("/fonts/source-serif-pro-#{$weightName}-#{$style}.woff2");
+    src: url("/fonts/#{$family}-#{$weightName}-#{$style}.#{$ext}");
   }
 }
 
-@include font-face(300, "light", normal);
-@include font-face(400, "regular", normal);
-@include font-face(400, "regular", italic);
+@include font-face("source-serif-pro", 300, "light", normal, "woff2");
+@include font-face("source-serif-pro", 400, "regular", normal, "woff2");
+@include font-face("source-serif-pro", 400, "regular", italic, "woff2");
+
+@include font-face("sorts-mill-goudy", 400, "regular", normal, "woff");
+@include font-face("sorts-mill-goudy", 400, "regular", italic, "woff");
