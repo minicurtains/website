@@ -7,6 +7,14 @@ html {
 
 h1 {
   font-size: 2rem;
+
+  margin: {
+    top: 10rem;
+    bottom: 5rem;
+  }
+}
+
+.chapter-title {
   text-align: center;
   font-weight: 300;
   font-variant-caps: all-small-caps;
