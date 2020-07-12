@@ -14,13 +14,22 @@ h1 {
   }
 }
 
-.chapter-title {
+h1.chapter-title {
   text-align: center;
   font-weight: 300;
   font-variant-caps: all-small-caps;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.1em;
 }
 
-.story-title {
+h1.story-title {
   font-family: "sorts-mill-goudy";
+}
+
+.story-controls {
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+
+  .story-title {
+    font-style: italic;
+  }
 }

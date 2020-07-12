@@ -4,6 +4,13 @@
     {{ partial "head" . }}
   </head>
   <body>
+    <nav class="story-controls">
+      <p>
+        You are reading
+        <a href="{{ .Parent.Permalink }}" class="story-title">{{ .Parent.Title }}</a>.
+      </p>
+    </nav>
+
     <h1 class="chapter-title">{{ .Title }}</h1>
 
     <prose>
