@@ -1,0 +1,15 @@
+---
+title: Chapter 3
+---
+
+When Oliver woke up he was in the boot of a car. He could tell this from the smell of petrol, the rough movement of the car on the road and the shape of the space he was trapped in. A sliver of light crept onto his face and the blue glinting eyes of the man from before are all Oliver could see. "Ready?" the man asked in a smooth voice. Oliver didn't move. In his head he was working out the most logical plan to escape. The man pulled Oliver out of the car and into the street. Oliver had never been to this part of town before. The man pulled Oliver to the wharf not far off. The water was dark and rough. It churned and it was surprising that the old boat floating near the wharf wasn't capsizing. It seemed to almost glow. Oliver was mesmerised. His whole world flipped forward and Oliver fell into the boat. The man had pushed him and was following him onto the boat. The choppy water carried the boat out onto the horizon, taking the two people with it.
+
+The man sat in silence and Oliver wondered if he ever would explain what was going on. The one thing that books and movies never really show is that this particular bit would be awkward. I mean, travelling with a complete stranger who just kidnapped you even though you are dead in silence would be pretty awkward right? The man didn't seem to think so. He glanced back at Oliver and flicked a switch at the side of the boat. The water suddenly split and a crack opened up in the deep ocean. The boat somehow was now on a platform. The platform moved forward like some robotic arm and moved into the crack. The creaking platform lowered into darkness.
+
+Oliver didn't panic. He didn't even flinch. All that could go through his mind was: How was this all possible? Was he unconscious? He didn't know. Oliver was going through a strange emotion which he couldn't describe. Panic was the only thing closest to this feeling. Although that wasn't even close. He could hear the rushing water around him as they slowly descended. Finally they reached the bottom. The man flicked another switch and a door opened in the side of the seemingly old boat. Now Oliver was curious. Where was he. He might as well follow the man because there was no point in escaping now. They left the chamber into which the boat had lowered. In front of them sat a single stair case. They climbed up the marble stairs in silence until they reached a single wooden door.  They young man turned around to face Oliver. "Ready?" He reached to put a key in the lock of the door.
+
+"First of all, who are you and where are we?" The man froze.
+
+"Why should I tell you when you can find out yourself?"
+
+"Well it's hard to figure it out when I am completely confused about science and my other beliefs." The man did nothing except smile creepily at Oliver. His icy blue eyes did not break away from Oliver's. Behind him the door swung open and a rush of cool air blew into Oliver's face. His eyes widened. "Welcome," said the man "to the afterlife."
