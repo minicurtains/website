@@ -10,12 +10,4 @@
     text-align: right;
     float: right;
   }
-
-  a {
-    color: #cd693c;
-
-    @media (prefers-color-scheme: dark) {
-      color: #a3a4f1;
-    }
-  }
 }
