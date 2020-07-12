@@ -4,8 +4,10 @@
     {{ partial "head" . }}
   </head>
   <body>
-    <h1>{{ .Title }}</h1>
-    {{ .Content }}
+    <prose>
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+    </prose>
 
     <nav class="chapter-control">
       {{ with .Next }}
