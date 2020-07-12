@@ -5,6 +5,14 @@ html {
   font-variant-numeric: oldstyle-nums;
 }
 
+a {
+  background: {
+    image: linear-gradient(currentColor, currentColor);
+    size: 100% 1px;
+    position: 0 83%;
+  }
+}
+
 h1 {
   font-size: 2rem;
 
